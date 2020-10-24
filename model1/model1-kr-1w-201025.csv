@@ -1,4 +1,4 @@
-date,is_kospi,index_price,stock_id,name,closing_price,deep_weight
+date,is_kospi,index_price,stock_id,name,closing_price,deep_weight 
 2020-10-25,KOSPI,2360.81,2460,화성산업,12600,0.4301
 2020-10-25,KOSDAQ,807.98,103230,에스앤더블류,2280,0.2493
 2020-10-25,KOSDAQ,807.98,246720,아스타,6150,0.3242

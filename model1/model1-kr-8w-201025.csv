@@ -1,4 +1,4 @@
-date,is_kospi,index_price,stock_id,name,closing_price,deep_weight
+date,is_kospi,index_price,stock_id,name,closing_price,deep_weight 
 2020-10-25,KOSDAQ,807.98,084180,수성,1395,0.1669
 2020-10-25,KOSPI,2360.81,000120,CJ대한통운,167500,0.2022
 2020-10-25,KOSDAQ,807.98,192440,슈피겐코리아,64300,0.2039
