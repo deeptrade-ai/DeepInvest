@@ -1,4 +1,4 @@
-date,is_kospi,index_price,stock_id,name,closing_price
+date,is_kospi,index_price,stock_id,name,closing_price,deep_weight
 2020-11-08,KOSPI,2416.5,140910,에이리츠,8710,0.2121
 2020-11-08,KOSDAQ,836.78,083660,CSA 코스믹,2890,0.1990
 2020-11-08,KOSDAQ,836.78,192410,감마누,2955,0.1526
